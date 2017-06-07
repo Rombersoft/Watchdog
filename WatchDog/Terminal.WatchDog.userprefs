@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Terminal.WatchDog.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Watchdog.cs">
+    <Files>
+      <File FileName="app.manifest" Line="1" Column="1" />
+      <File FileName="Watchdog.cs" Line="32" Column="36" />
+      <File FileName="TCP_Server.cs" Line="6" Column="21" />
+      <File FileName="Main.cs" Line="34" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
